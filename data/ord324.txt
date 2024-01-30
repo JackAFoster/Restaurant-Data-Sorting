@@ -1,0 +1,6 @@
+chwings 1
+dcoke 3
+fries   2
+grsal 1
+ceasersal 2
+dcoke 2

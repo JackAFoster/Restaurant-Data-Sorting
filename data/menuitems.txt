@@ -1,0 +1,25 @@
+appetizers
+chwings,"chicken wings",10.50
+grshrimp,"Grilled Shrimp",10.50
+chbites,"Pepperjack Cheese Bites",8.00
+ceasersal,"Ceaser Salad",10.00
+grsal,"Greek Salad",12.00
+hsal,"House Salad",10.00
+sandwiches
+drfsandw,"Fish Sandwich", 15
+smkfsandw,"Smoked Salmon Sandwich",15
+chsandw,"Chicken Sandwich", 14
+stsandw,"Cheesesteak Sandwich",16
+vegsandw,"veggie sandwich",12
+angsandw,"Angus Hamburger",16.5
+drinks
+coke,"Coca-cola",3.50
+dcoke,"Diet Coca-Cola", 3.50
+icedtea,"Iced Tea",3
+cof,"Coffee",4
+tea,"Tea",3.5
+sides
+hrpt,"Herb Roasted Potatoes",6
+fveg,"Fresh Vegetable Medley",7
+fries,"House-Cut Fries",6.5
+mshrm,"Garlic Mushrooms",8.5
